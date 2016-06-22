@@ -15,6 +15,15 @@ HashDisk was created to work with our Warren Machine (A fast,and fully created i
 
 Follow us to keep the track into our prolog and haskDisk updates
 
+<h3> How to run </h3>
+<p> Run the main file in your SBCL 
+<p> (Load "mkhash")
+<p> Create your database files 
+<p> (Create "filename")
+<p> file2hash function to add to the db
+<p> prt-hash-value to rescue the value into db
+<p> Example inside main file (at end)
+
 <H6> Contact </h6>
 <p> Lucas : lu.guerra7508@gmail.com or lu.guerra7508@hotmail.com
 <p> Thank you
